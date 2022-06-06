@@ -25,11 +25,11 @@ interesting usages of the output.
 9. Automate publishing to YouTube Shorts
 
 ## Credit 
-Art generation: https://www.wombo.art/ 
-Wombo API: https://github.com/leopoldhub/wombo-dream-api (need to move to https://github.com/cdgco/dream-api as it is more active)
+- Art generation: https://www.wombo.art/ 
+- Wombo API: https://github.com/leopoldhub/wombo-dream-api (need to move to https://github.com/cdgco/dream-api as it is more active)
 
 ## Installation 
-TODO: write installation guide. 
-TODO: remove `node_modules` folder once installation guide is written
+- TODO: write installation guide. 
+- TODO: remove `node_modules` folder once installation guide is written
 
 Required: Node.js
