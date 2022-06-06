@@ -1,4 +1,4 @@
-# WOMBO Dream Auto-Animator
+# AI Art Auto-Animator
 ## Key Features
 
 ### Generation Automation
@@ -30,5 +30,6 @@ Wombo API: https://github.com/leopoldhub/wombo-dream-api (need to move to https:
 
 ## Installation 
 TODO: write installation guide. 
+TODO: remove `node_modules` folder once installation guide is written
 
 Required: Node.js
